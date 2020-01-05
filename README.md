@@ -1,6 +1,6 @@
-# flutter_app_task
+# Flutter Moor App
 
-A new Flutter application.
+A note app with flutter and moor (sqlite db)
 
 ## Getting Started
 
